@@ -299,7 +299,7 @@ def start():
     create_game_files()
     
     console.print("[bold green]우주선 살인 사건 미스터리에 오신 것을 환영합니다![/bold green]")
-    console.print("\n2184년 3월 15일, 우주선 '호프호'에서 과학책임자 김르탄이 살해당한 채 발견되었습니다.")
+    console.print("\n2184년 3월 15일, 우주선 '스파르타호'에서 과학책임자 김르탄이 살해당한 채 발견되었습니다.")
     console.print("당신은 이 사건을 조사하는 수사관입니다.")
     console.print("\n[bold yellow]조사를 위해 다음 Unix 명령어들을 사용하세요:[/bold yellow]")
     console.print("- ls: 파일 목록 확인")
